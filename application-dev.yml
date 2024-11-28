@@ -10,5 +10,5 @@ eureka:
 
 spring:
   application:
-    name: Config-Default-Dev
+    name: Config-Dev
       
